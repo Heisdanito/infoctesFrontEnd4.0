@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "infoctess",
   "main": "expo-router/entry",
   "version": "1.0.0",
@@ -54,8 +53,7 @@
     "eslint-config-expo": "~10.0.0",
     "typescript": "~5.9.2"
   },
-  "private": true
-=======
+  "private": true,
   "name": "web",
   "private": true,
   "version": "0.0.0",
@@ -84,5 +82,4 @@
     "globals": "^17.6.0",
     "vite": "^8.0.12"
   }
->>>>>>> 3b76b2feffcc1edc5930ce421abe1340071770ba
 }
